@@ -15,6 +15,15 @@ Draw the pattern of how many people are murdered in the US each year
 ### Military
 "allowing for the very sad depletion of our military."
 
+<!DOCTYPE html>
+<meta charset='utf-8'>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<body></body>
+
+<script src='d3v4.js'></script>
+<script src='_script.js'></script>
+
 
 
 
