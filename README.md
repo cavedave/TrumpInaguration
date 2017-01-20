@@ -1,10 +1,23 @@
-## Welcome to GitHub Pages
+## Draw it yourself Trumps Inauguration Speech
 
-You can use the [editor on GitHub](https://github.com/cavedave/TrumpInaguration/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The points Vox thought were important from [President Trump's inauguration speech, annotated](http://www.vox.com/a/president-trump-inauguration-speech-transcript-annotations). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Jobs
+"Politicians prospered, but the jobs left and the factories closed"
 
-### Markdown
+Draw it yourself the number of people employed in the US over time
+
+### Carnage
+"This American carnage stops right here and stops right now."
+
+Draw the pattern of how many people are murdered in the US each year
+
+### Military
+"allowing for the very sad depletion of our military."
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
