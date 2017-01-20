@@ -22,7 +22,7 @@ Draw the pattern of how many people are murdered in the US each year
 <body></body>
 
 <script src='d3v4.js'></script>
-<script src='_script.js'></script>
+<script src='https://github.com/cavedave/TrumpInaguration/blob/master/_script.js'></script>
 
 
 
